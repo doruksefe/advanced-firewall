@@ -9,7 +9,7 @@ Gereksinimler:
     sudo apt install fail2ban ufw -y
 
 Çalıştırma:
-    sudo python3 siber_kalkan_v13.py
+    sudo python3 lumiguardv1.py
 """
 
 import re, os, time, subprocess, json, urllib.request, sqlite3, secrets, logging, ipaddress

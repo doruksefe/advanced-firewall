@@ -9,6 +9,7 @@ Kendi yazdığım IPv4 ve IPv6 destekli güvenlik duvarı scripti.
 - Web siteleri / sunucular için tasarlandı
 - Yaklaşık 950-1000 satır kod
 - 40.000+ karakter
+- - IPv4 & IPv6 Destekli
 
 ## Uyarı
 Bu script **sadece eğitim ve lab ortamları** için geliştirilmiştir.  

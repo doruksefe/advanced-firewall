@@ -44,7 +44,7 @@ TRUSTED_IPS = ["127.0.0.1", "::1", "192.168.1.1"]
 # Panel erişimi
 PANEL_USER = "admin"
 PANEL_PASS = "Lumi7#Qx123-4!"
-LOGIN_ATTEMPT_LIMIT   = 5
+LOGIN_ATTEMPT_LIMIT   = 3
 LOGIN_LOCKOUT_SECONDS = 300   # 5 dakika
 
 # İzin verilen panel ağları — boş = herkese açık
